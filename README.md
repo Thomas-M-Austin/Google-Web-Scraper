@@ -1,6 +1,3 @@
-	<h1>ScaleSerp Scraper</h1>
-
-
 <p>This Python script, <code>ScaleSerp Scraper.py</code>, allows you to search for a keyword on a specific site using the Scale SERP API and save the resulting organic search results to an Excel file.</p>
 
 <h2>Requirements</h2>
