@@ -35,4 +35,4 @@
 
 <h2>License</h2>
 
-<p>This script is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
+<p>This script is licensed under the GNU General Public License v3.0. See the <a href="https://github.com/Thomas-M-Austin/Google-Web-Scraper/blob/main/LICENSE">LICENSE</a> file for more information.</p>
